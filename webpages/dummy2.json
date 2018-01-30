@@ -1,0 +1,148 @@
+[{
+    "_id": "5a70c2634e8388cd9a426e82",
+    "index": 0,
+    "guid": "03967ae4-bf76-47e0-a935-11fcf40835b3",
+    "isActive": true,
+    "balance": "$1,182.52",
+    "picture": "http://placehold.it/32x32",
+    "age": 38,
+    "eyeColor": "brown",
+    "name": {
+      "first": "Beck",
+      "last": "Underwood"
+    },
+    "company": "VENOFLEX",
+    "email": "beck.underwood@venoflex.net",
+    "phone": "+1 (868) 526-3909",
+    "address": "291 Gotham Avenue, Kirk, Virgin Islands, 6693",
+    "about": "Labore mollit esse pariatur duis deserunt elit non deserunt est ea veniam. Deserunt est mollit ullamco ipsum et esse magna proident enim veniam laboris ea. Nisi laboris sunt in cillum nisi exercitation culpa et magna Lorem fugiat amet. Sit Lorem sunt sunt ullamco elit labore duis.",
+    "registered": "Thursday, March 19, 2015 6:05 AM",
+    "latitude": "34.461145",
+    "longitude": "74.435227",
+    "tags": [
+      "occaecat",
+      "dolor"
+    ],
+    "range": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "friends": [{
+        "id": 0,
+        "name": "Millie Marks"
+      },
+      {
+        "id": 1,
+        "name": "Pratt Crawford"
+      }
+    ],
+    "greeting": "Hello, Beck! You have 9 unread messages.",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "5a70c263aa252144dc1e3682",
+    "index": 1,
+    "guid": "c3a56011-3be3-4f59-a06d-4c05baabce03",
+    "isActive": false,
+    "balance": "$2,407.77",
+    "picture": "http://placehold.it/32x32",
+    "age": 36,
+    "eyeColor": "green",
+    "name": {
+      "first": "Higgins",
+      "last": "Flores"
+    },
+    "company": "EQUICOM",
+    "email": "higgins.flores@equicom.name",
+    "phone": "+1 (840) 515-3143",
+    "address": "911 Ralph Avenue, Abrams, District Of Columbia, 2810",
+    "about": "Nulla culpa exercitation sint occaecat id tempor Lorem. Duis ea esse et nulla aute et nostrud velit do laboris pariatur aliqua. Est non dolor in sunt sint consequat nostrud aliqua cupidatat consectetur incididunt. Cupidatat ullamco in exercitation adipisicing cupidatat ullamco culpa. Quis ea amet aute ea consequat velit labore aute cillum. Non reprehenderit incididunt laborum deserunt.",
+    "registered": "Tuesday, June 27, 2017 12:29 AM",
+    "latitude": "18.030181",
+    "longitude": "157.627064",
+    "tags": [
+      "incididunt",
+      "laboris"
+    ],
+    "range": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "friends": [{
+        "id": 0,
+        "name": "Bridges Howell"
+      },
+      {
+        "id": 1,
+        "name": "Brittany Rivera"
+      }
+    ],
+    "greeting": "Hello, Higgins! You have 6 unread messages.",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "5a70c26478b0a9dcbf0d9772",
+    "index": 2,
+    "guid": "0a8bc192-9aae-41fb-90e3-a140847ce65e",
+    "isActive": true,
+    "balance": "$3,919.68",
+    "picture": "http://placehold.it/32x32",
+    "age": 38,
+    "eyeColor": "blue",
+    "name": {
+      "first": "Rollins",
+      "last": "Sargent"
+    },
+    "company": "ECLIPTO",
+    "email": "rollins.sargent@eclipto.biz",
+    "phone": "+1 (838) 478-2831",
+    "address": "534 Buffalo Avenue, Fulford, Nebraska, 1883",
+    "about": "Deserunt consequat laboris veniam est esse fugiat aliqua. Sit Lorem qui ipsum commodo sint commodo cillum qui proident ad do excepteur id sint. Occaecat culpa occaecat labore cupidatat deserunt aute amet eiusmod quis cupidatat do cillum. Nulla velit irure proident irure officia deserunt officia. Labore irure non laboris consequat tempor occaecat qui laborum ad deserunt magna cupidatat.",
+    "registered": "Thursday, June 8, 2017 7:18 AM",
+    "latitude": "-67.727517",
+    "longitude": "-101.800621",
+    "tags": [
+      "anim",
+      "ullamco"
+    ],
+    "range": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "friends": [{
+        "id": 0,
+        "name": "Parsons Murray"
+      },
+      {
+        "id": 1,
+        "name": "Hurst Huber"
+      }
+    ],
+    "greeting": "Hello, Rollins! You have 7 unread messages.",
+    "favoriteFruit": "apple"
+  }
+]

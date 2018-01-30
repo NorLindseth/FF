@@ -155,7 +155,7 @@ INSERT INTO tilbud (beskrivelse, rabatt, min, max, konflikt, aktiveringsdato, ut
         NULL
 );
 INSERT INTO tilbud (beskrivelse, rabatt, min, max, konflikt, aktiveringsdato, utløpsdato, type_id, kampanjekode) VALUES (
-        "202% savslag på kjøp over 3000, til 10000",
+        "2013232% savslag på kjøp over 3000, til 10000",
         0.2,
         600,
         2000,
