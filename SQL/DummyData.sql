@@ -1,3 +1,5 @@
+
+
 INSERT INTO allergen (beskrivelse) VALUES (
     'Egg'
 );
@@ -9,13 +11,13 @@ INSERT INTO allergen (beskrivelse) VALUES (
 );
 
 INSERT INTO prisbeskrivelse (beskrivelse) VALUES (
-  'test'
+  'per kg'
 );
 INSERT INTO prisbeskrivelse (beskrivelse) VALUES (
-  'test'
+  'per side'
 );
 INSERT INTO prisbeskrivelse (beskrivelse) VALUES (
-  'test'
+  'ca. 300 gram'
 );
 
 INSERT INTO primærkategori (navn) VALUES (
@@ -64,12 +66,35 @@ INSERT INTO subkategori (navn, primær_id) VALUES (
 
 
 
-INSERT INTO produkter (navn, beskrivelse, annen_beskrivelse, bilde_url, antall_på_lager, ordinærpris, subkategori_id) VALUES (
+INSERT INTO produkter (navn, beskrivelse, annen_beskrivelse, bilde_url, antall_på_lager, ordinærpris, subkategori_id, prisbeskrivelse_id) VALUES (
         'Klippfisk av torsk',
         'Klippfisk med skinn og bein',
         'Superior kvalitet',
         'URL DASDASD',
         30,
         167,
+        2,
         2
+);
+
+INSERT INTO produkter (navn, beskrivelse, annen_beskrivelse, bilde_url, antall_på_lager, ordinærpris, subkategori_id, prisbeskrivelse_id) VALUES (
+        'asd',
+        'Kasdasd',
+        'Superior kvalitet',
+        'URL DASasdDASD',
+        30,
+        1672,
+        2,
+        1
+);
+
+
+INSERT INTO produkt_allergen (produkt_id, allergen_id) VALUES (
+    1,
+    3
+);
+
+INSERT INTO produkt_allergen (produkt_id, allergen_id) VALUES (
+    1,
+    2
 );
